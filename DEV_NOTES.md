@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Updated license year
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-23
+- Updated .gitignore to exclude build artifacts
